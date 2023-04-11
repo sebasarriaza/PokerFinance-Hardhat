@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Disrup3/sj-poker-harhdat/issues"
   },
-  "homepage": "https://github.com/Disrup3/sj-poker-harhdat#readme"
+  "homepage": "https://github.com/Disrup3/sj-poker-harhdat#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.1"
+  }
 }
